@@ -98,6 +98,7 @@ img {
 
 header {
   width:270px;
+  font-family:Open+Sans,Helvetica;
   float:left;
   position:fixed;
 }
