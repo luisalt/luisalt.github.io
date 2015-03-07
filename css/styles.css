@@ -14,12 +14,12 @@ h1, h2, p { margin: 0; padding: 0; }
 .section-intro .caption a {color: #666666;}
 .section-intro .avatar { margin-left: 20px; }
 
-.section-one {background: url(../images/indigo-sea.jpg) no-repeat center; background-size: cover; }
+.section-one {background: url(../images/indigo-sea.jpg) no-repeat center; background-size: cover; padding: 40px 20px 80px 20px; }
 .section-one .container { width: 100%; min-height: 400px; -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility; }
 .section-one h2 {font: 32px/42px 'Open Sans', sans-serif; font-weight: 800; color: #29232D;text-align: left; letter-spacing: 1px;padding: 20px 20px 0 20px;}
-.section-one p {font: 18px/27px 'Gentium Basic', serif;color: #0000FF; text-align: left;padding: 20px 20px 0 20px; max-width: 500px;}
-.section-one .caption { margin-bottom:5px; text-align: left; color: #0000FF; }
-.section-one .caption a {color: #0000FF;}
+.section-one p {font: 18px/27px 'Gentium Basic', serif;color: #666666; text-align: left;padding: 20px 20px 0 20px; max-width: 500px;}
+.section-one .caption { margin-bottom:5px; text-align: left; color: #666666; }
+.section-one .caption a {color: #666666;}
 .section-one .avatar { margin-left: 20px; }
 
 /* Small devices (tablets, > 768px) */
