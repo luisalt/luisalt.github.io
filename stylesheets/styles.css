@@ -269,8 +269,8 @@ footer {
 
 .section-rivers {background: url(../images/indigo-sea.jpg) no-repeat center; background-size: cover; padding: 40px 20px 80px 20px; }
 .section-rivers .container { width: 100%; min-height: 400px; -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility; }
-.section-rivers h2 {font: 32px/42px 'Open Sans', sans-serif; font-weight: 800; text-transform: uppercase; color: #29232D;text-align: left; letter-spacing: 1px;padding: 20px 20px 0 20px;}
-.section-rivers p {font: 18px/27px 'Gentium Basic', serif;color: #fff; text-align: left;padding: 20px 20px 0 20px; max-width: 500px;}
-.section-rivers .caption { margin-bottom:5px; text-align: left; color: #fff; }
-.section-rivers .caption a {color: #fff;}
+.section-rivers h2 {font: 32px/42px 'Open Sans', sans-serif; font-weight: 800; color: #29232D;text-align: left; letter-spacing: 1px;padding: 20px 20px 0 20px;}
+.section-rivers p {font: 18px/27px 'Gentium Basic', serif;color: #666666; text-align: left;padding: 20px 20px 0 20px; max-width: 500px;}
+.section-rivers .caption { margin-bottom:5px; text-align: left; color: #666666; }
+.section-rivers .caption a {color: #666666;}
 .section-rivers .avatar { margin-left: 20px; }
