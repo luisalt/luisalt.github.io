@@ -8,13 +8,13 @@ h1, h2, p { margin: 0; padding: 0; }
 
 .section-intro {background: url(../images/marketers.png) no-repeat center; background-size: cover; padding: 40px 20px 80px 20px; }
 .section-intro .container { width: 100%; min-height: 400px; -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility; }
-.section-intro h2 {font: 32px/42px 'Open Sans', sans-serif; font-weight: 800; color: #29232D;text-align: left; letter-spacing: 1px;padding: 20px 20px 0 20px;}
-.section-intro p {font: 18px/27px 'Gentium Basic', serif;color: #666666; text-align: left;padding: 20px 20px 0 20px; max-width: 500px;}
-.section-intro .caption { margin-bottom:5px; text-align: left; color: #666666; }
-.section-intro .caption a {color: #666666;}
+.section-intro h2 {font: 32px/42px 'Open Sans', sans-serif; font-weight: 800; color: #FFFFFF;text-align: left; letter-spacing: 1px;padding: 20px 20px 0 20px;}
+.section-intro p {font: 18px/27px 'Gentium Basic', serif;color: #ffffff; text-align: left;padding: 20px 20px 0 20px; max-width: 500px;}
+.section-intro .caption { margin-bottom:5px; text-align: left; color: #ffffff; }
+.section-intro .caption a {color: #ffffff;}
 .section-intro .avatar { margin-left: 20px; }
 
-.section-one {background: url(../images/ventures.png) no-repeat center; background-color: #E6E6E6; padding: 150px 0 60px; overflow: hidden; color: #fff; }
+.section-one {background no-repeat center; background-color: #FFFFFF; padding: 150px 0 60px; overflow: hidden; color: #fff; }
 .section-one .container { width: 100%; min-height: 400px; -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility; }
 .section-one h2 {font: 32px/42px 'Open Sans', sans-serif; font-weight: 800; color: #29232D;text-align: left; letter-spacing: 1px;padding: 20px 20px 0 20px;}
 .section-one p {font: 18px/27px 'Gentium Basic', serif;color: #666666; text-align: left;padding: 20px 20px 0 20px; max-width: 500px;}
