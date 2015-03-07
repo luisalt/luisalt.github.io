@@ -6,7 +6,7 @@ h1, h2, p { margin: 0; padding: 0; }
 
 .container { width: 960px; margin: 0 auto; }
 
-.section-intro {background-color: #FFFFFF; no-repeat center; background-size: cover; padding: 40px 20px 80px 20px; }
+.section-intro {background: url(../images/marketers.png) no-repeat center; background-size: cover; padding: 40px 20px 80px 20px; }
 .section-intro .container { width: 100%; min-height: 400px; -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility; }
 .section-intro h2 {font: 32px/42px 'Open Sans', sans-serif; font-weight: 800; color: #29232D;text-align: left; letter-spacing: 1px;padding: 20px 20px 0 20px;}
 .section-intro p {font: 18px/27px 'Gentium Basic', serif;color: #666666; text-align: left;padding: 20px 20px 0 20px; max-width: 500px;}
