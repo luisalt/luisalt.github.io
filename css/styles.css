@@ -8,8 +8,8 @@ h1, h2, p { margin: 0; padding: 0; }
 
 .section-intro {background: url(../images/marketers.png) no-repeat center; background-size: cover; padding: 40px 20px 80px 20px; }
 .section-intro .container { width: 100%; min-height: 400px; -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility; }
-.section-intro h2 {font: 32px/42px 'Open Sans', sans-serif; text-shadow: 2px 2px #ff0000; font-weight: 800; color: #FFFFFF;text-align: left; letter-spacing: 1px; padding: 20px 20px 0 20px;}
-.section-intro p {font: 18px/27px 'Gentium Basic', serif;color: #ffffff; text-shadow: 2px 2px #ff0000;text-align: left;padding: 20px 20px 0 20px; max-width: 500px;}
+.section-intro h2 {font: 32px/42px 'Open Sans', sans-serif; text-shadow: 1px 1px #000000; font-weight: 800; color: #FFFFFF;text-align: left; letter-spacing: 1px; padding: 20px 20px 0 20px;}
+.section-intro p {font: 18px/27px 'Gentium Basic', serif;color: #ffffff; text-shadow: 1px 1px #000000;text-align: left;padding: 20px 20px 0 20px; max-width: 500px;}
 .section-intro .caption { margin-bottom:5px; text-align: left; color: #ffffff; }
 .section-intro .caption a {color: #ffffff;}
 .section-intro .avatar { margin-left: 20px; }
