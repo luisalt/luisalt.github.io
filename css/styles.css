@@ -1,6 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:800|Gentium+Basic:400,400italic);
 
+body { margin: 0; padding: 0; zoom: 1; }
+h1, h2, p { margin: 0; padding: 0; }
+
 .container { width: 960px; margin: 0 auto; }
 
 .section-intro {background-color: #FFFFFF; no-repeat center; background-size: cover; padding: 40px 20px 80px 20px; }
@@ -19,5 +22,50 @@
 .section-one .caption a {color: #0000FF;}
 .section-one .avatar { margin-left: 20px; }
 
+/* Small devices (tablets, > 768px) */
+@media (min-width: 769px) {
+
+    .section-crow-pitcher { padding: calc(4 * 20px); }
+    .section-crow-pitcher h2 { margin-bottom: calc(8 * 20px); margin-top: calc(4 * 20px); }
+    .section-crow-pitcher .container p { font-size: 48px; }
+    .section-crow-pitcher .container .drop-p { color: white; font-size: 18px; float: left; line-height: 1.4em; margin-bottom: 0; margin-right: calc(3 * 20px); margin-top: calc(1 * 20px); width: 33.3%; }
+    .section-crow-pitcher em { font-size: 18px; margin-bottom: calc(8 * 20px); }
+    .section-crow-pitcher hr { width: 2.5%;    }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .section-crow-pitcher .container p { font-size: 104px; }
+    .section-crow-pitcher .container .drop-p { font-size: 24px; line-height: 1.8em; margin-bottom: 0; margin-top: calc(1 * 20px); margin-right: calc(4 * 20px); }
+    .section-crow-pitcher em { font-size: 24px; }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .section-crow-pitcher {    padding: calc(6 * 20px);    }
+    .section-crow-pitcher h2 { margin-bottom: calc(12 * 20px);    margin-top: calc(6 * 20px);    }
+    .section-crow-pitcher .container p { font-size: 124px; margin-bottom: calc(12 * 20px);    }
+    .section-crow-pitcher .container .drop-p { font-size: 36px; line-height: 1.8em;    }
+    .section-crow-pitcher em { font-size: 36px; margin-bottom: calc(12 * 20px); }
+}
+
+/* Large devices (extra large desktops, 1440px and up) */
+@media (min-width: 1440px) {
+    .section-crow-pitcher .container p { font-size: 150px;    }
+}
+
+
+/* min-width 1025px and max-width 1440px, large screens */
+@media only screen and (min-width: 64.063em) and (max-width: 90em) {
+    .section-horse-groom { padding: 250px 250px 350px }
+    .section-horse-groom p { width: 45% }
+    .section-horse-groom blockquote { width: 40%; padding: 60px 0 0 0; }
+}
+
+/* max-width 1920px, xlarge screen */
+@media only screen and (min-width: 120em) {
+    .section-horse-groom { padding: 250px 650px 350px; }
+    .section-horse-groom blockquote { padding: 50px 0 0 0; }
+}
 
 
