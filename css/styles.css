@@ -11,7 +11,7 @@
 .section-intro .caption a {color: #666666;}
 .section-intro .avatar { margin-left: 20px; }
 
-.section-one {background: url(../images/indigo-sea.jpg) no-repeat center; background-size: cover; padding: 0px 0px 0px 0px; }
+.section-one {background: url(../images/indigo-sea.jpg) no-repeat center; background-size: cover; }
 .section-one .container { width: 100%; min-height: 400px; -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility; }
 .section-one h2 {font: 32px/42px 'Open Sans', sans-serif; font-weight: 800; color: #29232D;text-align: left; letter-spacing: 1px;padding: 20px 20px 0 20px;}
 .section-one p {font: 18px/27px 'Gentium Basic', serif;color: #0000FF; text-align: left;padding: 20px 20px 0 20px; max-width: 500px;}
