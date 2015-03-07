@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:800|Gentium+Basic:400,400italic);
 
-.container { width: 960px; margin: 0 auto; }
+.container { width: 360px; margin: 0 auto; }
 
 .section-intro {background-color: #FFFFFF; no-repeat center; background-size: cover; padding: 40px 20px 80px 20px; }
 .section-intro .container { width: 100%; min-height: 400px; -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility; }
