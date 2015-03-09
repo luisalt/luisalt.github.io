@@ -1,0 +1,41 @@
+.nav a {
+    color: #5a5a5a;
+    font-size: 11px;
+    font-weight: bold;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 10px;
+    padding-right:10px;
+    text-transform: uppercase;
+}
+
+.ventures {
+    height: 500px;
+    background-image: url('');
+}
+
+.ventures h1{
+    color: #fff;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Shift', sans-serif;
+}
+
+.ventures p{
+    color: #fff;
+    font-size:20px;
+}
+
+.footer {
+    background-color: #f7f7f7;
+}
+
+.footer h3{
+    font-family: 'Shift', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.footer a{
+    color: #00b0ff;
+}
