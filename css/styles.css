@@ -9,19 +9,19 @@
     text-transform: uppercase;
 }
 
-.ventures {
+.hello {
     height: 500px;
     background-image: url('');
 }
 
-.ventures h1{
+.hello h1{
     color: #fff;
     font-size: 48px;
     font-weight: bold;
     font-family: 'Shift', sans-serif;
 }
 
-.ventures p{
+.hello p{
     color: #fff;
     font-size:20px;
 }
