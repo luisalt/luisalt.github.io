@@ -10,7 +10,7 @@
 }
 
 .hello {
-    height: 500px;
+    height: 800px;
     background-image: url('');
 }
 
@@ -18,12 +18,152 @@
     color: #ccc;
     font-size: 48px;
     font-weight: bold;
-    font-family: 'Shift', sans-serif;
+    font-family: 'Open+Sans', sans-serif;
 }
 
 .hello p{
     color: #ccc;
     font-size:20px;
+    font-family: 'Gentium+Book';
+
+.ventures {
+    height: 800px;
+    background-image: url('');
+}
+
+.ventures h1{
+    color: #ccc;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Open+Sans', sans-serif;
+}
+
+.ventures p{
+    color: #ccc;
+    font-size:20px;
+    font-family: 'Gentium+Book';
+
+.livework {
+    height: 800px;
+    background-image: url('');
+}
+
+.livework h1{
+    color: #ccc;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Open+Sans', sans-serif;
+}
+
+.livework p{
+    color: #ccc;
+    font-size:20px;
+    font-family: 'Gentium+Book';
+
+.eise {
+    height: 800px;
+    background-image: url('');
+}
+
+.eise h1{
+    color: #ccc;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Open+Sans', sans-serif;
+}
+
+.eise p{
+    color: #ccc;
+    font-size:20px;
+    font-family: 'Gentium+Book';
+
+
+.dtbr {
+    height: 800px;
+    background-image: url('');
+}
+
+.dtbr h1{
+    color: #ccc;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Open+Sans', sans-serif;
+}
+
+.dtbr p{
+    color: #ccc;
+    font-size:20px;
+    font-family: 'Gentium+Book';
+
+.servir-bem {
+    height: 800px;
+    background-image: url('');
+}
+
+.servir-bem h1{
+    color: #ccc;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Open+Sans', sans-serif;
+}
+
+.servir-bem p{
+    color: #ccc;
+    font-size:20px;
+    font-family: 'Gentium+Book';
+
+.speaking {
+    height: 800px;
+    background-image: url('');
+}
+
+.speaking h1{
+    color: #ccc;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Open+Sans', sans-serif;
+}
+
+.speaking p{
+    color: #ccc;
+    font-size:20px;
+    font-family: 'Gentium+Book';
+
+.teaching {
+    height: 800px;
+    background-image: url('');
+}
+
+.teaching h1{
+    color: #ccc;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Open+Sans', sans-serif;
+}
+
+.teaching p{
+    color: #ccc;
+    font-size:20px;
+    font-family: 'Gentium+Book';
+
+.press {
+    height: 800px;
+    background-image: url('');
+}
+
+.press h1{
+    color: #ccc;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Open+Sans', sans-serif;
+}
+
+.press p{
+    color: #ccc;
+    font-size:20px;
+    font-family: 'Gentium+Book';
+    
+
 }
 
 .footer {
