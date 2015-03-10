@@ -222,13 +222,13 @@ body { margin: 0; padding: 0; zoom: 1; }
 
 .speaking h3{
     color: #FFFFFF;
-    font-size: 36px;
+    font-size: 24px;
     font-weight: bold;
     font-family: 'Open Sans', sans-serif;
     padding: 20px 20px 0 20px;
 }
 
-.speaking p{
+.speaking ul{
     color: #ccc;
     font-size:20px;
     font-family: 'Gentium Basic';
