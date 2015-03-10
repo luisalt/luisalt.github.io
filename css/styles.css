@@ -259,6 +259,9 @@ body { margin: 0; padding: 0; zoom: 1; }
 .footer {
     background-color: #f7f7f7;
     padding: 40px 20px 80px 20px;
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
 }
 
 .footer h3{
