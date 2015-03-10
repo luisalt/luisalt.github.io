@@ -139,8 +139,9 @@ body { margin: 0; padding: 0; zoom: 1; }
 
 }
 .dtbr {
-    height: 800px;
+    height: 900px;
     background: url(../img/dtbr.jpg) no-repeat left; 
+    background-attachment: fixed;
     padding: 40px 20px 80px 20px;
 }
 
@@ -152,7 +153,7 @@ body { margin: 0; padding: 0; zoom: 1; }
 }
 
 .dtbr h1{
-    color: #000000;
+    color: #F8BF00;
     text-transform: uppercase;
     padding: 20px 20px 0 20px;
     line-height: 38px;
@@ -162,7 +163,7 @@ body { margin: 0; padding: 0; zoom: 1; }
 }
 
 .dtbr p{
-    color: #2D2D2D;
+    color: #FFFFFF;
     font-size:20px;
     font-family: 'Gentium Basic';
     max-width:500px;
