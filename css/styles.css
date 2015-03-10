@@ -15,16 +15,16 @@
 }
 
 .hello h1{
-    color: #ccc;
+    color: #000000;
     font-size: 48px;
     font-weight: bold;
-    font-family: 'Open+Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .hello p{
     color: #ccc;
     font-size:20px;
-    font-family: 'Gentium+Book';
+    font-family: 'Gentium Basic';
 }
 
 .ventures {
@@ -33,16 +33,16 @@
 }
 
 .ventures h1{
-    color: #ccc;
+    color: #000000;
     font-size: 48px;
     font-weight: bold;
-    font-family: 'Open+Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .ventures p{
     color: #ccc;
     font-size:20px;
-    font-family: 'Gentium+Book';
+    font-family: 'Gentium Basic';
 }
 
 .livework {
@@ -51,16 +51,16 @@
 }
 
 .livework h1{
-    color: #ccc;
+    color: #000000;
     font-size: 48px;
     font-weight: bold;
-    font-family: 'Open+Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .livework p{
     color: #ccc;
     font-size:20px;
-    font-family: 'Gentium+Book';
+    font-family: 'Gentium Basic';
 }
 
 .eise {
@@ -69,16 +69,16 @@
 }
 
 .eise h1{
-    color: #ccc;
+    color: #000000;
     font-size: 48px;
     font-weight: bold;
-    font-family: 'Open+Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .eise p{
     color: #ccc;
     font-size:20px;
-    font-family: 'Gentium+Book';
+    font-family: 'Gentium Basic';
 
 }
 .dtbr {
@@ -87,16 +87,16 @@
 }
 
 .dtbr h1{
-    color: #ccc;
+    color: #000000;
     font-size: 48px;
     font-weight: bold;
-    font-family: 'Open+Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .dtbr p{
     color: #ccc;
     font-size:20px;
-    font-family: 'Gentium+Book';
+    font-family: 'Gentium Basic';
 }
 
 .servir-bem {
@@ -105,16 +105,16 @@
 }
 
 .servir-bem h1{
-    color: #ccc;
+    color: #000000;
     font-size: 48px;
     font-weight: bold;
-    font-family: 'Open+Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .servir-bem p{
     color: #ccc;
     font-size:20px;
-    font-family: 'Gentium+Book';
+    font-family: 'Gentium Basic';
 }
 
 .speaking {
@@ -123,16 +123,16 @@
 }
 
 .speaking h1{
-    color: #ccc;
+    color: #000000;
     font-size: 48px;
     font-weight: bold;
-    font-family: 'Open+Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .speaking p{
     color: #ccc;
     font-size:20px;
-    font-family: 'Gentium+Book';
+    font-family: 'Gentium Basic';
 }
 
 .teaching {
@@ -141,16 +141,16 @@
 }
 
 .teaching h1{
-    color: #ccc;
+    color: #000000;
     font-size: 48px;
     font-weight: bold;
-    font-family: 'Open+Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .teaching p{
     color: #ccc;
     font-size:20px;
-    font-family: 'Gentium+Book';
+    font-family: 'Gentium Basic';
 }
 
 .press {
