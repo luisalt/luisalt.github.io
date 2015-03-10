@@ -9,6 +9,11 @@
     text-transform: uppercase;
 }
 
+.container {
+    width:960px;
+    margin:0 auto;
+}
+
 .hello {
     min-height: 400px;
     background-color: gray;
@@ -166,7 +171,7 @@
     font-weight: bold;
     font-family: 'Open Sans', sans-serif;
     padding: 20px 20px 0 20px;
-    line-height: 36px;
+    line-height: 40px;
     text-decoration: underline;
     font-style: italic;
 
