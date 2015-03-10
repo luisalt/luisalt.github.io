@@ -27,6 +27,7 @@
     font-size:20px;
     font-family: 'Gentium Basic';
     padding: 20px 20px 0 20px;
+    max-width: 500px
 }
 
 .ventures {
@@ -39,12 +40,15 @@
     font-size: 48px;
     font-weight: bold;
     font-family: 'Open Sans', sans-serif;
+    padding: 20px 20px 0 20px;
 }
 
 .ventures p{
     color: #ccc;
     font-size:20px;
     font-family: 'Gentium Basic';
+    padding: 20px 20px 0 20px;
+    max-width: 500px
 }
 
 .livework {
@@ -57,12 +61,16 @@
     font-size: 48px;
     font-weight: bold;
     font-family: 'Open Sans', sans-serif;
+    padding: 20px 20px 0 20px;
+
 }
 
 .livework p{
     color: #ccc;
     font-size:20px;
     font-family: 'Gentium Basic';
+    padding: 20px 20px 0 20px;
+    max-width: 500px
 }
 
 .eise {
@@ -75,12 +83,15 @@
     font-size: 48px;
     font-weight: bold;
     font-family: 'Open Sans', sans-serif;
+    padding: 20px 20px 0 20px;
 }
 
 .eise p{
     color: #ccc;
     font-size:20px;
     font-family: 'Gentium Basic';
+    padding: 20px 20px 0 20px;
+    max-width: 500px
 
 }
 .dtbr {
@@ -124,12 +135,15 @@
     font-size: 48px;
     font-weight: bold;
     font-family: 'Open Sans', sans-serif;
+    padding: 20px 20px 0 20px;
 }
 
 .servir-bem p{
     color: #ccc;
     font-size:20px;
     font-family: 'Gentium Basic';
+    padding: 20px 20px 0 20px;
+    max-width: 500px
 }
 
 .speaking {
@@ -142,12 +156,15 @@
     font-size: 48px;
     font-weight: bold;
     font-family: 'Open Sans', sans-serif;
+    padding: 20px 20px 0 20px;
 }
 
 .speaking p{
     color: #ccc;
     font-size:20px;
     font-family: 'Gentium Basic';
+    padding: 20px 20px 0 20px;
+    max-width: 500px
 }
 
 .teaching {
@@ -160,12 +177,15 @@
     font-size: 48px;
     font-weight: bold;
     font-family: 'Open Sans', sans-serif;
+    padding: 20px 20px 0 20px;
 }
 
 .teaching p{
     color: #ccc;
     font-size:20px;
     font-family: 'Gentium Basic';
+    padding: 20px 20px 0 20px;
+    max-width: 500px
 }
 
 .press {
@@ -175,15 +195,19 @@
 
 .press h1{
     color: #ccc;
-    font-size: 48px;
+    font-size: 24px;
     font-weight: bold;
     font-family: 'Open+Sans', sans-serif;
+    padding: 20px 20px 0 20px;
+
 }
 
 .press p{
     color: #ccc;
     font-size:20px;
     font-family: 'Gentium+Book';
+    padding: 20px 20px 0 20px;
+    max-width: 500px
 
 }
 
