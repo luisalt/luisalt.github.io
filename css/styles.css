@@ -15,9 +15,6 @@ body { margin: 0; padding: 0; zoom: 1; }
     text-align: left; 
     margin: 0 7px 30px 10px;
     list-style-type: none;
-    background-color:#FFFFFF;
-    opacity: 0.6;
-    filter : alpha(opacity=60);
 }
 
 .container {
