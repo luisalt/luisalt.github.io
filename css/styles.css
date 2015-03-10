@@ -12,6 +12,7 @@
 .hello {
     height: 800px;
     background-color: gray;
+    padding: 40px 20px 80px 20px;
 }
 
 .hello h1{
@@ -33,6 +34,7 @@
 .ventures {
     height: 800px;
     background-image: url('');
+    padding: 40px 20px 80px 20px;
 }
 
 .ventures h1{
@@ -54,6 +56,7 @@
 .livework {
     height: 800px;
     background-image: url('');
+    padding: 40px 20px 80px 20px;
 }
 
 .livework h1{
@@ -76,6 +79,7 @@
 .eise {
     height: 800px;
     background-image: url('');
+    padding: 40px 20px 80px 20px;
 }
 
 .eise h1{
@@ -128,6 +132,7 @@
 .servir-bem {
     height: 800px;
     background-image: url('');
+    padding: 40px 20px 80px 20px;
 }
 
 .servir-bem h1{
@@ -149,6 +154,7 @@
 .speaking {
     height: 800px;
     background-image: url('');
+    padding: 40px 20px 80px 20px;
 }
 
 .speaking h1{
@@ -170,6 +176,7 @@
 .teaching {
     height: 800px;
     background-image: url('');
+    padding: 40px 20px 80px 20px;
 }
 
 .teaching h1{
@@ -191,6 +198,7 @@
 .press {
     height: 800px;
     background-image: url('');
+    padding: 40px 20px 80px 20px;
 }
 
 .press h1{
@@ -213,6 +221,7 @@
 
 .footer {
     background-color: #f7f7f7;
+    padding: 40px 20px 80px 20px;
 }
 
 .footer h3{
