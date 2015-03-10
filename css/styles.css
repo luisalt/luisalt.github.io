@@ -25,6 +25,7 @@
     color: #ccc;
     font-size:20px;
     font-family: 'Gentium+Book';
+}
 
 .ventures {
     height: 800px;
@@ -42,6 +43,7 @@
     color: #ccc;
     font-size:20px;
     font-family: 'Gentium+Book';
+}
 
 .livework {
     height: 800px;
@@ -59,6 +61,7 @@
     color: #ccc;
     font-size:20px;
     font-family: 'Gentium+Book';
+}
 
 .eise {
     height: 800px;
@@ -77,7 +80,7 @@
     font-size:20px;
     font-family: 'Gentium+Book';
 
-
+}
 .dtbr {
     height: 800px;
     background-image: url('');
@@ -94,6 +97,7 @@
     color: #ccc;
     font-size:20px;
     font-family: 'Gentium+Book';
+}
 
 .servir-bem {
     height: 800px;
@@ -111,6 +115,7 @@
     color: #ccc;
     font-size:20px;
     font-family: 'Gentium+Book';
+}
 
 .speaking {
     height: 800px;
@@ -128,6 +133,7 @@
     color: #ccc;
     font-size:20px;
     font-family: 'Gentium+Book';
+}
 
 .teaching {
     height: 800px;
@@ -145,6 +151,7 @@
     color: #ccc;
     font-size:20px;
     font-family: 'Gentium+Book';
+}
 
 .press {
     height: 800px;
@@ -162,7 +169,6 @@
     color: #ccc;
     font-size:20px;
     font-family: 'Gentium+Book';
-
 
 }
 
