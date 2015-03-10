@@ -83,11 +83,21 @@
 }
 .dtbr {
     height: 800px;
-    background-image: url('');
+    background-color: #F9C232;
+    padding: 40px 20px 80px 20px;
+}
+
+.dtbr .container { 
+	width: 100%; 
+	min-height: 400px; 
+	-webkit-font-smoothing:antialiased; 
+	text-rendering:optimizeLegibility; 
 }
 
 .dtbr h1{
     color: #000000;
+    text-transform: uppercase;
+    padding: 20px 20px 0 20px;
     line-height: 38px;
     font-size: 48px;
     font-weight: bold;
