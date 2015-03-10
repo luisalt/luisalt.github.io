@@ -54,6 +54,10 @@
     max-width: 500px
 }
 
+.ventures img{
+    padding: 20px;
+}
+
 .livework {
     height: 800px;
     background-color: #EAEAEA;
