@@ -105,9 +105,10 @@
 }
 
 .dtbr p{
-    color: #ccc;
+    color: #2D2D2D;
     font-size:20px;
     font-family: 'Gentium Basic';
+    max-width:500px;
 }
 
 .servir-bem {
