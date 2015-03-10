@@ -178,14 +178,13 @@ body { margin: 0; padding: 0; zoom: 1; }
 }
 
 .servir-bem h1{
-    color: #000000;
+    color: #FFFFFF;
     font-size: 48px;
     font-weight: bold;
     font-family: 'Open Sans', sans-serif;
     padding: 20px 20px 0 20px;
     line-height: 40px;
     text-decoration: underline;
-    font-style: italic;
 
 }
 
@@ -194,7 +193,7 @@ body { margin: 0; padding: 0; zoom: 1; }
     font-size:20px;
     font-family: 'Gentium Basic';
     padding: 20px 20px 0 20px;
-    max-width: 500px
+    max-width: 300px
 }
 
 .speaking {
