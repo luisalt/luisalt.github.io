@@ -28,6 +28,7 @@ body { margin: 0; padding: 0; zoom: 1; }
     background-attachment: fixed;
     padding: 40px 20px 80px 20px;
     background-color: #415062;
+    background-size: cover;
 }
 
 .hello h1{
@@ -111,6 +112,7 @@ body { margin: 0; padding: 0; zoom: 1; }
     height: 380px;
     background: url(../img/eise.jpg) no-repeat left;
     padding: 40px 20px 80px 20px;
+    background-size: cover;
 }
 
 .eise h1{
@@ -145,6 +147,7 @@ body { margin: 0; padding: 0; zoom: 1; }
     background: url(../img/dtbr.jpg) no-repeat left; 
     background-attachment: fixed;
     padding: 40px 20px 80px 20px;
+    background-size: cover;
 }
 
 .dtbr .container { 
@@ -177,6 +180,7 @@ body { margin: 0; padding: 0; zoom: 1; }
     background: url(../img/servir-bem.jpg) no-repeat left; 
     background-attachment: fixed;
     padding: 40px 20px 80px 20px;
+    background-size: cover;
 }
 
 .servir-bem h1{
@@ -204,6 +208,7 @@ body { margin: 0; padding: 0; zoom: 1; }
     background: url(../img/speaking.jpg) no-repeat top left; 
     background-attachment: fixed;
     padding: 40px 20px 80px 20px;
+    background-size: cover;
 }
 
 .speaking h1{
