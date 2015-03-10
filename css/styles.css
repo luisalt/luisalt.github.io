@@ -11,7 +11,7 @@
 
 .hello {
     height: 800px;
-    background-image: url('');
+    background-color: gray;
 }
 
 .hello h1{
@@ -19,12 +19,14 @@
     font-size: 48px;
     font-weight: bold;
     font-family: 'Open Sans', sans-serif;
+    padding: 20px 20px 0 20px;
 }
 
 .hello p{
-    color: #ccc;
+    color: #C2C2C2;
     font-size:20px;
     font-family: 'Gentium Basic';
+    padding: 20px 20px 0 20px;
 }
 
 .ventures {
