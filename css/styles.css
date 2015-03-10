@@ -60,7 +60,9 @@
 
 .livework {
     height: 800px;
-    background-color: #EAEAEA;
+    background: url(img/livework.jpg) 
+    no-repeat left; 
+    background-size: cover;
     padding: 40px 20px 80px 20px;
 }
 
