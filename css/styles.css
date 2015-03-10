@@ -167,8 +167,8 @@
     font-family: 'Open Sans', sans-serif;
     padding: 20px 20px 0 20px;
     line-height: 36px;
-    font-style: underline;
-    font-variant: italic;
+    text-decoration: underline;
+    font-style: italic;
 
 }
 
