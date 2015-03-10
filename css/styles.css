@@ -67,8 +67,8 @@ body { margin: 0; padding: 0; zoom: 1; }
 
 .livework {
     height: 800px;
-    background: url(../img/livework.jpg) 
-    no-repeat left; 
+    background: url(../img/livework.jpg) no-repeat left; 
+    background-attachment: fixed;
     background-size: cover;
     padding: 40px 20px 80px 20px;
 }
