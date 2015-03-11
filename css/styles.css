@@ -327,6 +327,7 @@ body { margin: 0; padding: 0; zoom: 1; }
 }
 
 @media all and (min-width: 768px) {
+    
     .hello { background-color: #171e26 url(../img/hello_small.png) no-repeat right bottom; }
     .hello .container { width: 340px; }
     .hello h1 { max-width: 340px; width: auto; padding: 0 20px; }
@@ -375,26 +376,9 @@ body { margin: 0; padding: 0; zoom: 1; }
     .contact h3 { max-width: 340px; width: auto; padding: 0 20px; }
     .contact p { max-width: 340px; width: auto; padding: 0 20px; }
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-     
+}
 
-    /* .hello .container .moral { margin-bottom: 80px; } */
+/* .hello .container .moral { margin-bottom: 80px; } */
 
 
 /*
