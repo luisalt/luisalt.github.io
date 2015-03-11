@@ -329,50 +329,51 @@ body { margin: 0; padding: 0; zoom: 1; }
 @media all and (min-width: 768px) {
     .hello { background-color: #171e26 url(../img/hello_small.png) no-repeat right bottom; }
     .hello .container { width: 340px; }
-    .hello p { max-width: 340px; width: auto; padding: 0 20px; }
     .hello h1 { max-width: 340px; width: auto; padding: 0 20px; }
+    .hello p { max-width: 340px; width: auto; padding: 0 20px; }
 
     .ventures .container { width: 340px; }
-    .ventures p { max-width: 340px; width: auto; padding: 0 20px; }
     .ventures h1 { max-width: 340px; width: auto; padding: 0 20px; }
+    .ventures p { max-width: 340px; width: auto; padding: 0 20px; }
     .ventures img { max-width: 340px; width: auto; padding: 0 20px; }
 
     .livework .container { width: 340px; }
-    .livework p { max-width: 340px; width: auto; padding: 0 20px; }
     .livework h1 { max-width: 340px; width: auto; padding: 0 20px; }
+    .livework p { max-width: 340px; width: auto; padding: 0 20px; }
     .livework img { max-width: 340px; width: auto; padding: 0 20px; }
     .livework ul { max-width: 340px; width: auto; padding: 0 20px; }
 
     .eise .container { width: 340px; }
-    .eise p { max-width: 340px; width: auto; padding: 0 20px; }
     .eise h1 { max-width: 340px; width: auto; padding: 0 20px; }
+    .eise h2 { max-width: 340px; width: auto; padding: 0 20px; }
+    .eise p { max-width: 340px; width: auto; padding: 0 20px; }
 
     .dtbr .container { width: 340px; }
-    .dtbr p { max-width: 340px; width: auto; padding: 0 20px; }
     .dtbr h1 { max-width: 340px; width: auto; padding: 0 20px; }
+    .dtbr p { max-width: 340px; width: auto; padding: 0 20px; }
 
     .servir-bem .container { width: 340px; }
-    .servir-bem p { max-width: 340px; width: auto; padding: 0 20px; }
     .servir-bem h1 { max-width: 340px; width: auto; padding: 0 20px; }
+    .servir-bem p { max-width: 340px; width: auto; padding: 0 20px; }
     
     .speaking .container { width: 340px; }
-    .speaking p { max-width: 340px; width: auto; padding: 0 20px; }
     .speaking h1 { max-width: 340px; width: auto; padding: 0 20px; }
-    .livework ul { max-width: 340px; width: auto; padding: 0 20px; }
+    .speaking p { max-width: 340px; width: auto; padding: 0 20px; }
+    .speaking ul { max-width: 340px; width: auto; padding: 0 20px; }
 
     .teaching .container { width: 340px; }
-    .teaching p { max-width: 340px; width: auto; padding: 0 20px; }
     .teaching h1 { max-width: 340px; width: auto; padding: 0 20px; }
+    .teaching p { max-width: 340px; width: auto; padding: 0 20px; }
     .teaching img { max-width: 340px; width: auto; padding: 0 20px; }
 
     .press .container { width: 340px; }
-    .press p { max-width: 340px; width: auto; padding: 0 20px; }
     .press h1 { max-width: 340px; width: auto; padding: 0 20px; }
-    .livework ul { max-width: 340px; width: auto; padding: 0 20px; }
+    .press p { max-width: 340px; width: auto; padding: 0 20px; }
+    .press ul { max-width: 340px; width: auto; padding: 0 20px; }
 
     .contact .container { width: 340px; }
+    .contact h3 { max-width: 340px; width: auto; padding: 0 20px; }
     .contact p { max-width: 340px; width: auto; padding: 0 20px; }
-    .contact h1 { max-width: 340px; width: auto; padding: 0 20px; }
     
     
     
