@@ -326,6 +326,10 @@ body { margin: 0; padding: 0; zoom: 1; }
     color: #00b0ff;
 }
 
+
+/* This version almost worked but still needs some fine-tuning */
+
+/*
 @media all and (max-width: 768px) {
     .hello { background-color: #171e26 url(../img/hello_small.png) no-repeat right bottom; }
     .hello .container { width: 640px; }
@@ -402,8 +406,7 @@ body { margin: 0; padding: 0; zoom: 1; }
     .contact a { max-width: 300px; width: 600px; padding: 0 20px; }
 
 }
-
-/* .hello .container .moral { margin-bottom: 80px; } */
+*/
 
 
 /*
