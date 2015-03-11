@@ -327,10 +327,10 @@ body { margin: 0; padding: 0; zoom: 1; }
 }
 
 @media all and (min-width: 768px) {
-    
+
     .hello { background-color: #171e26 url(../img/hello_small.png) no-repeat right bottom; }
     .hello .container { width: 340px; }
-    .hello h1 { max-width: 340px; width: auto; padding: 0 20px; }
+    .hello h1 { max-width: 340px; font-size:24px; width: auto; padding: 0 20px; }
     .hello p { max-width: 340px; width: auto; padding: 0 20px; }
 
     .ventures .container { width: 340px; }
@@ -342,7 +342,7 @@ body { margin: 0; padding: 0; zoom: 1; }
     .livework h1 { max-width: 340px; width: auto; padding: 0 20px; }
     .livework p { max-width: 340px; width: auto; padding: 0 20px; }
     .livework img { max-width: 340px; width: auto; padding: 0 20px; }
-    .livework ul { max-width: 340px; width: auto; padding: 0 20px; }
+    .livework ul { max-width: 340px; overflow: auto; width: auto; padding: 0 20px; }
 
     .eise .container { width: 340px; }
     .eise h1 { max-width: 340px; width: auto; padding: 0 20px; }
@@ -360,7 +360,7 @@ body { margin: 0; padding: 0; zoom: 1; }
     .speaking .container { width: 340px; }
     .speaking h1 { max-width: 340px; width: auto; padding: 0 20px; }
     .speaking p { max-width: 340px; width: auto; padding: 0 20px; }
-    .speaking ul { max-width: 340px; width: auto; padding: 0 20px; }
+    .speaking ul { max-width: 340px; overflow: auto; width: auto; padding: 0 20px; }
 
     .teaching .container { width: 340px; }
     .teaching h1 { max-width: 340px; width: auto; padding: 0 20px; }
@@ -370,7 +370,7 @@ body { margin: 0; padding: 0; zoom: 1; }
     .press .container { width: 340px; }
     .press h1 { max-width: 340px; width: auto; padding: 0 20px; }
     .press p { max-width: 340px; width: auto; padding: 0 20px; }
-    .press ul { max-width: 340px; width: auto; padding: 0 20px; }
+    .press ul { max-width: 340px; overflow: auto; width: auto; padding: 0 20px; }
 
     .contact .container { width: 340px; }
     .contact h3 { max-width: 340px; width: auto; padding: 0 20px; }
