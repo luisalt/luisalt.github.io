@@ -371,8 +371,17 @@ body { margin: 0; padding: 0; zoom: 1; }
 */
 
 @media all and (min-width: 768px) {
-    .hello { background: #171e26 url(../img/hello-small.png) no-repeat right bottom; }
+    .hello { background-color: #171e26 url(../img/hello_small.png) no-repeat right bottom; }
     .hello .container { width: 340px; }
+    .ventures .container { width: 340px; }
+    .livework .container { width: 340px; }
+    .eise .container { width: 340px; }
+    .dtbr .container { width: 340px; }
+    .servir-bem .container { width: 340px; }
+    .speaking .container { width: 340px; }
+    .teaching .container { width: 340px; }
+    .press .container { width: 340px; }
+    .contact .container { width: 340px; }
     /* .hello .container .moral { margin-bottom: 80px; } */
 
 
