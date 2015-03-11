@@ -326,7 +326,7 @@ body { margin: 0; padding: 0; zoom: 1; }
     color: #00b0ff;
 }
 
-@media all and (min-width: 768px) {
+@media all and (max-width: 768px) {
     .hello { background-color: #171e26 url(../img/hello_small.png) no-repeat right bottom; }
     .hello .container { width: 340px; }
     .hello h1 { max-width: 340px; font-size:10px; width: 340px; padding: 0 20px; }
