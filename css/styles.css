@@ -37,7 +37,7 @@ body { margin: 0; padding: 0; zoom: 1; }
     font-weight: bold;
     font-family: 'Open Sans', sans-serif;
     padding: 20px 20px 0 20px;
-    line-height: 38px;
+    line-height: 40px;
 }
 
 .hello p{
@@ -203,7 +203,7 @@ body { margin: 0; padding: 0; zoom: 1; }
 }
 
 .speaking {
-    height: 800px;
+    height: 600px;
     background-color: black;
     background: url(../img/speaking.jpg) no-repeat top left; 
     padding: 40px 20px 80px 20px;
