@@ -326,6 +326,7 @@ body { margin: 0; padding: 0; zoom: 1; }
     color: #00b0ff;
 }
 
+/*
 @media only screen and ( min-width: 33.75em ) {
     .hello { font-size: 100%; }
     .ventures { font-size: 100%; }
@@ -367,3 +368,11 @@ body { margin: 0; padding: 0; zoom: 1; }
     .press p { padding-left: 25%; }
     .press p:last-child { padding-left: 0; }
 }
+*/
+
+@media all and (min-width: 768px) {
+    .hello { background: #171e26 url(../img/hello-small.png) no-repeat right bottom; }
+    .hello .container { width: 340px; }
+    /* .hello .container .moral { margin-bottom: 80px; } */
+
+
