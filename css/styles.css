@@ -328,43 +328,61 @@ body { margin: 0; padding: 0; zoom: 1; }
 
 @media all and (max-width: 768px) {
     .hello { background-color: #171e26 url(../img/hello_small.png) no-repeat right bottom; }
-    .hello .container { width: 340px; }
-    .hello h1 { max-width: 340px; font-size:10px; width: 340px; padding: 0 20px; }
-    .hello p { max-width: 340px; width: 340px; padding: 0 20px; }
-    .ventures .container { width: 340px; }
-    .ventures h1 { max-width: 340px; font-size:10px; width: 340px; padding: 0 20px; }
-    .ventures p { max-width: 340px; width: 340px; padding: 0 20px; }
-    .ventures img { max-width: 340px; width: 340px; padding: 0 20px; }
-    .livework .container { width: 340px; }
-    .livework h1 { max-width: 340px; font-size:10px; width: 340px; padding: 0 20px; }
-    .livework p { max-width: 340px; width: 340px; padding: 0 20px; }
-    .livework img { max-width: 340px; width: 340px; padding: 0 20px; }
-    .livework ul { max-width: 340px; width: 340px; padding: 0 20px; }
-    .eise .container { width: 340px; }
-    .eise h1 { max-width: 340px; font-size:10px; width: 340px; padding: 0 20px; }
-    .eise h2 { max-width: 340px; font-size:10px; width: 340px; padding: 0 20px; }
-    .eise p { max-width: 340px; width: 340px; padding: 0 20px; }
-    .dtbr .container { width: 340px; }
-    .dtbr h1 { max-width: 340px; font-size:10px; width: 340px; padding: 0 20px; }
-    .dtbr p { max-width: 340px; width: 340px; padding: 0 20px; }
-    .servir-bem .container { width: 340px; }
-    .servir-bem h1 { max-width: 340px; font-size:10px; width: 340px; padding: 0 20px; }
-    .servir-bem p { max-width: 340px; width: 340px; padding: 0 20px; }
-    .speaking .container { width: 340px; }
-    .speaking h1 { max-width: 340px; font-size:10px; width: 340px; padding: 0 20px; }
-    .speaking p { max-width: 340px; width: 340px; padding: 0 20px; }
-    .speaking ul { max-width: 340px; width: 340px; padding: 0 20px; }
-    .teaching .container { width: 340px; }
-    .teaching h1 { max-width: 340px; font-size:10px; width: 340px; padding: 0 20px; }
-    .teaching p { max-width: 340px; width: 340px: auto; padding: 0 20px; }
-    .teaching img { max-width: 340px; width: 340px; padding: 0 20px; }
-    .press .container { width: 340px; }
-    .press h1 { max-width: 340px; font-size:10px; width: 340px; padding: 0 20px; }
-    .press p { max-width: 340px; width: 340px; padding: 0 20px; }
-    .press ul { max-width: 340px; width: 340px; padding: 0 20px; }
-    .contact .container { width: 340px; }
-    .contact h3 { max-width: 340px; font-size:10px; width: 340px; padding: 0 20px; }
-    .contact p { max-width: 340px; width: 340px; padding: 0 20px; }
+    .hello .container { width: 640px; }
+    .hello h1 { max-width: 500px; font-size:24px; width: 600px; padding: 0 20px; }
+    .hello p { max-width: 500px; width: 600px; padding: 0 20px; }
+    .ventures .container { width: 640px; }
+    .ventures h1 { max-width: 500px; font-size:24px; width: 600px; padding: 0 20px; }
+    .ventures p { max-width: 500px; width: 600px; padding: 0 20px; }
+    .ventures img { max-width: 500px; width: 600px; padding: 0 20px; }
+    .livework .container { width: 640px; }
+    .livework h1 { max-width: 500px; font-size:24px; width: 600px; padding: 0 20px; }
+    .livework p { max-width: 500px; width: 600px; padding: 0 20px; }
+    .livework img { max-width: 500px; size: auto; width: 600px; padding: 0 20px; }
+    .livework ul { max-width: 500px; width: 600px; padding: 0 20px; }
+    .eise .container { width: 640px; }
+    .eise h1 { max-width: 500px; font-size:24px; width: 600px; padding: 0 20px; }
+    .eise h2 { max-width: 500px; font-size:20px; width: 600px; padding: 0 20px; }
+    .eise p { max-width: 500px; width: 600px; padding: 0 20px; }
+    .eise img { max-width: 500px; size: auto; width: 600px; padding: 0 20px; }
+    .eise ul { max-width: 500px; width: 600px; padding: 0 20px; }
+    .dtbr .container { width: 640px; }
+    .dtbr h1 { max-width: 500px; font-size:24px; width: 600px; padding: 0 20px; }
+    .dtbr h2 { max-width: 500px; font-size:20px; width: 600px; padding: 0 20px; }
+    .dtbr p { max-width: 500px; width: 600px; padding: 0 20px; }
+    .dtbr img { max-width: 500px; size: auto; width: 600px; padding: 0 20px; }
+    .dtbr ul { max-width: 500px; width: 600px; padding: 0 20px; }
+    .servir-bem .container { width: 640px; }
+    .servir-bem h1 { max-width: 500px; font-size:24px; width: 600px; padding: 0 20px; }
+    .servir-bem h2 { max-width: 500px; font-size:20px; width: 600px; padding: 0 20px; }
+    .servir-bem p { max-width: 500px; width: 600px; padding: 0 20px; }
+    .servir-bem img { max-width: 500px; size: auto; width: 600px; padding: 0 20px; }
+    .servir-bem ul { max-width: 500px; width: 600px; padding: 0 20px; }
+    .speaking .container { width: 640px; }
+    .speaking h1 { max-width: 500px; font-size:24px; width: 600px; padding: 0 20px; }
+    .speaking h2 { max-width: 500px; font-size:20px; width: 600px; padding: 0 20px; }
+    .speaking p { max-width: 500px; width: 600px; padding: 0 20px; }
+    .speaking img { max-width: 500px; size: auto; width: 600px; padding: 0 20px; }
+    .speaking ul { max-width: 500px; width: 600px; padding: 0 20px; }
+    .teaching .container { width: 640px; }
+    .teaching h1 { max-width: 500px; font-size:24px; width: 600px; padding: 0 20px; }
+    .teaching h2 { max-width: 500px; font-size:20px; width: 600px; padding: 0 20px; }
+    .teaching p { max-width: 500px; width: 600px; padding: 0 20px; }
+    .teaching img { max-width: 500px; size: auto; width: 600px; padding: 0 20px; }
+    .teaching ul { max-width: 500px; width: 600px; padding: 0 20px; }
+    .press .container { width: 640px; }
+    .press h1 { max-width: 500px; font-size:24px; width: 600px; padding: 0 20px; }
+    .press h2 { max-width: 500px; font-size:20px; width: 600px; padding: 0 20px; }
+    .press p { max-width: 500px; width: 600px; padding: 0 20px; }
+    .press img { max-width: 500px; size: auto; width: 600px; padding: 0 20px; }
+    .press ul { max-width: 500px; width: 600px; padding: 0 20px; }
+    .contact .container { width: 640px; }
+    .contact h1 { max-width: 500px; font-size:24px; width: 600px; padding: 0 20px; }
+    .contact h2 { max-width: 500px; font-size:20px; width: 600px; padding: 0 20px; }
+    .contact p { max-width: 500px; width: 600px; padding: 0 20px; }
+    .contact img { max-width: 500px; size: auto; width: 600px; padding: 0 20px; }
+    .contact ul { max-width: 500px; width: 600px; padding: 0 20px; }
+
 }
 
 /* .hello .container .moral { margin-bottom: 80px; } */
